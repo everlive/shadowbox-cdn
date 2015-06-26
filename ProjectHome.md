@@ -1,0 +1,1 @@
+Load Shadowbox.js from a common hosted server.
